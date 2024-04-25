@@ -58,12 +58,12 @@ skills:
         description: ''
         percent: 100
         icon: variable
-        icon_pack: fas
+        icon_pack: academicons
       - name: Linux 
         description: ''
         percent: 80
         icon: linux 
-        icon_pack: fas
+        icon_pack: devicon 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
