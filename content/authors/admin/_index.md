@@ -3,7 +3,7 @@
 title: 胡子瞻
 
 # Name pronunciation (optional)
-name_pronunciation: Hu Zizhan zhan
+name_pronunciation: Hu Zi Zhan
 
 # Full name (for SEO)
 first_name: Zi zhan
