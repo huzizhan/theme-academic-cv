@@ -156,8 +156,9 @@ sections:
   #     columns: '2'
 
   - block: collection
+    id: publications
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -165,9 +166,9 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
-      columns: '3'
+      columns: '5'
       view: citation
 
   # - block: portfolio
@@ -241,7 +242,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: frankhuzi@outlook.com
       phone: +86 18311150188
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: Tsinghua Unviersity
         city: Beijing
@@ -271,15 +272,15 @@ sections:
       #     name: Zoom Me
       #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+    #   autolink: true
+    #   # Email form provider
+    #   form:
+    #     provider: netlify
+    #     formspree:
+    #       id:
+    #     netlify:
+    #       # Enable CAPTCHA challenge to reduce spam?
+    #       captcha: false
+    # design:
+    #   columns: '2'
 ---
