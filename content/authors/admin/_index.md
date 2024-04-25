@@ -46,24 +46,24 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 100
-        icon: python
-        icon_pack: fab
-      - name: Model Development
-        description: ''
-        percent: 100
-        icon: variable
-        icon_pack: academicons
-      - name: Linux 
-        description: ''
-        percent: 80
-        icon: linux 
-        icon_pack: hero 
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 100
+#         icon: python
+#         icon_pack: fab
+#       - name: Model Development
+#         description: ''
+#         percent: 100
+#         icon: variable
+#         icon_pack: academicons
+#       - name: Linux 
+#         description: ''
+#         percent: 80
+#         icon: linux 
+#         icon_pack: hero 
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
