@@ -51,18 +51,18 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Model Development
         description: ''
         percent: 100
-        icon: chart-line
+        icon: variable
         icon_pack: fas
-      - name: SQL
+      - name: Linux 
         description: ''
-        percent: 40
-        icon: database
+        percent: 80
+        icon: linux 
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -98,6 +98,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/huzizhan
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Zizhan-Hu-2
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
